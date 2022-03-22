@@ -90,3 +90,4 @@ Yf=W*sin(A);
 dist_to_go=sqrt((Yf-Y2)^2+(Xf-X2)^2); %too long to simplify to a single eqn.
 angle_to_go=atan2((Yf-Y2),(Xf-X2)); %too long to simplify to a single eqn.
 angle_to_adjust=A-angle_to_go; %too long to simplify to a single eqn.
+
